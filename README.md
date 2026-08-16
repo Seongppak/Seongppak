@@ -1,22 +1,63 @@
-My name is 위성현<!-- the bold part is the origin of my ID -->. I'm a newbie Developer of Kongju National University of Republic of korea
+# 👋 Hi, I'm 위성현!
+
+I'm a newbie developer studying at Kongju National University in the Republic of Korea.
+
+🌱 Currently learning C, Python, Java, Git & GitHub  
+💻 Interested in Software Development and Computer Science  
+🚀 Growing as a developer one step at a time
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api?username=Seongppak&theme=dark&show_icons=true"
+    >
+    <img
+        align="right"
+        width="50%"
+        src="https://github-stats-extended.vercel.app/api?username=Seongppak&show_icons=true"
+    >
 </picture>
 
 ---
+## 🛠 Tech Stack
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<!--START_SECTION:waka-->
+---
+## 🌱 Currently Learning
 
-```txt
-Unknown          26 hrs 36 mins  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.14 %
-Markdown         24 hrs 8 mins   🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.52 %
-Python           15 hrs 59 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.91 %
-SRT              8 hrs 24 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.89 %
-Rust             4 hrs 24 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.66 %
-```
+- C Programming
+- Python
+- Java
+- Data Structures
+- Algorithms
+- Git & GitHub
 
-<!--END_SECTION:waka-->
+  ---
+
+  ## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Seongppak&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🚀 Projects
+
+Coming soon! 🚧
+
+---
+
+## 🎯 Goals
+
+- Build strong programming fundamentals
+- Learn Data Structures & Algorithms
+- Build practical software projects
+- Improve Git & GitHub skills
+
+---

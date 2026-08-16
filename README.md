@@ -1,6 +1,6 @@
 # 👋 Hi, I'm 위성현!
 
-I'm a newbie developer studying at Kongju National University in the Republic of Korea.
+I'm a newbie developer of Kongju National University in the Republic of Korea.
 
 🌱 Currently learning C, Python, Java, Git & GitHub  
 💻 Interested in Software Development and Computer Science  

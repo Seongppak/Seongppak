@@ -2,7 +2,7 @@
 
 I'm a newbie developer of Kongju National University in the Republic of Korea.
 
-🌱 Currently learning C, Python, Java, Git & GitHub  
+🌱 Currently learning C, Python, Java, GitHub  
 💻 Interested in Software Development and Computer Science  
 🚀 Growing as a developer one step at a time
 
@@ -32,7 +32,7 @@ I'm a newbie developer of Kongju National University in the Republic of Korea.
 - C Programming
 - Python
 - Java
-- Git & GitHub
+- GitHub
 
   ---
 
